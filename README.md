@@ -1,6 +1,7 @@
-# toonflix
+# UI-CHALLENGE
 
-"A new Flutter project."
+This lecture was for cloning the UI of "https://dribbble.com/shots/19858341-Finnancial-Mobile-IOS-App".
+In this course, I learned about how to build structures in Flutter, use resuable widgets, make Stateful Widgets, and so on.
 
 ## Getting Started
 
